@@ -1,26 +1,26 @@
-# Hi, I'm `amwangfan` 👋
+# 你好，这里是 `amwangfan` 👋
 
-I enjoy building practical software, automating repetitive work, and turning ideas into usable tools.
+平时喜欢做一些实用的软件项目，把重复工作自动化，也会尝试将想法逐步做成可以实际使用的工具。
 
-My projects cover several areas, including:
+目前的开发实践主要涉及：
 
-- Python automation, data processing, and lightweight services
-- Backend APIs and self-hosted applications
-- Android development with Kotlin and Jetpack Compose
-- Web tools and workflow integration
-- C/C++ programming and hardware–software experimentation
-- Embedded systems, FPGA, and digital system projects
+- Python 自动化、数据处理与轻量服务
+- 后端 API、自托管应用与部署
+- Kotlin、Jetpack Compose 与 Android 开发
+- Web 工具与工作流集成
+- C/C++ 编程及软硬件协同实验
+- 嵌入式、FPGA 与数字系统相关项目
 
-## Selected projects
+## 部分项目
 
-- [OmniReader](https://github.com/amwangfan/OmniReader) — a self-hosted reading and synchronization service
-- [OmniReader_app](https://github.com/amwangfan/OmniReader_app) — an Android reading client built with Kotlin and Jetpack Compose
-- [Coffe_SpectralAnalysis](https://github.com/amwangfan/Coffe_SpectralAnalysis) — a small spectral-analysis experiment and application
-- [BiliBiliTool](https://github.com/amwangfan/BiliBiliTool) — automation utilities and scripting practice
-- [picasign](https://github.com/amwangfan/picasign) — one of my earlier software projects
+- [OmniReader](https://github.com/amwangfan/OmniReader) — 自托管阅读与同步服务
+- [OmniReader_app](https://github.com/amwangfan/OmniReader_app) — 使用 Kotlin 与 Jetpack Compose 开发的 Android 阅读客户端
+- [Coffe_SpectralAnalysis](https://github.com/amwangfan/Coffe_SpectralAnalysis) — 光谱分析相关实验与应用
+- [BiliBiliTool](https://github.com/amwangfan/BiliBiliTool) — 自动化工具与脚本实践
+- [picasign](https://github.com/amwangfan/picasign) — 较早期的软件开发项目之一
 
-## What I value
+## 开发方式
 
-I prefer learning through implementation: breaking down requirements, writing code, debugging real problems, and iterating until a project is usable.
+更习惯在实际实现中学习：拆解需求、编写代码、定位问题、反复调试，并逐步把项目完善到可用状态。
 
-This profile is mainly a record of ongoing experiments, engineering practice, and long-term development work.
+这里主要记录日常开发、工程实践和一些持续迭代中的项目。
