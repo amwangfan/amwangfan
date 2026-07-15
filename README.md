@@ -14,4 +14,4 @@
 
 - [OmniReader](https://github.com/amwangfan/OmniReader) — 自托管阅读与同步服务
 - [OmniReader_app](https://github.com/amwangfan/OmniReader_app) — 使用 Kotlin 与 Jetpack Compose 开发的 Android 阅读客户端
-- [Coffe_SpectralAnalysis](https://github.com/amwangfan/Coffe_SpectralAnalysis) — 光谱分析相关实验与应用
+- [Coffe_SpectralAnalysis](https://github.com/amwangfan/Coffe_SpectralAnalysis) — UESTC_Coffe课设
